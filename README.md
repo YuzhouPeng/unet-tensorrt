@@ -4,7 +4,7 @@ You can generate TensorRT engine file using this script and customize some param
 
 # requirements
 
-TensorRT 7.0<br>
+TensorRT 7.0 (you need to install tensorrt first)<br>
 Cuda 10.2<br>
 Python3.7<br>
 opencv 4.4<br>
