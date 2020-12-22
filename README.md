@@ -47,3 +47,12 @@ then a unet exec file will generated, you can use unet -d to infer files in a fo
 ```
 unet -d ../samples
 ```
+
+# efficiency
+the speed of tensorRT engine is much faster
+
+ pytorch | TensorRT FP32 | TensorRT FP16
+ ---- | ----- | ------  
+ 816x672  | 816x672 | 816x672 
+ 58ms  | 43ms (batchsize 8) | 14ms (batchsize 8) 
+
