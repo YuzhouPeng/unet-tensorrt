@@ -56,3 +56,9 @@ the speed of tensorRT engine is much faster
  816x672  | 816x672 | 816x672 
  58ms  | 43ms (batchsize 8) | 14ms (batchsize 8) 
 
+
+# Further development
+
+1. add INT8 calibrator<br>
+2. add custom plugin<br>
+etc
