@@ -23,7 +23,7 @@ train your dataset by following [pytorch-unet](https://github.com/milesial/Pytor
 
 ## convert .wts
 
-run gen_wts from utils folder, and move it to project folder<br>
+run gen_wts from utils folder, and move it to project folder (you need to run with east training environment)(<br>
 
 # generate engine file and infer
 
