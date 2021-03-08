@@ -49,7 +49,7 @@ unet -d ../samples
 ```
 
 # efficiency
-the speed of tensorRT engine is much faster
+the speed of tensorRT engine is much faster（testing on 2080TI）
 
  pytorch | TensorRT FP32 | TensorRT FP16
  ---- | ----- | ------  
