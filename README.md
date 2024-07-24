@@ -1,4 +1,7 @@
 # tensorrt-unet
+# update
+
+For the newest tensorrt 8.x version unet, please check this repo https://github.com/wang-xinyu/tensorrtx/tree/master/unet, they have more updates and are better dependency friendly.
 
 <img width="793" alt="屏幕截图 2021-05-07 153556" src="https://user-images.githubusercontent.com/13601004/117414645-f7374500-af49-11eb-95ff-b9a685629b23.png">
 original img(left) and segmentation result(right)<br>
